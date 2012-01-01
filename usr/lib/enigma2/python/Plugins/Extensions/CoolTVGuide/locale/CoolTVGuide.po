@@ -2,14 +2,14 @@
 #   *******************************
 #   *  Cool TV Guide by Coolman   *
 #   *  3D EPG-Plugin for Enigma2  *
-#   *  Coded by Coolman (c) 2011  *
+#   *  Coded by Coolman (c) 2012  *
 #   *******************************
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: Cool TV Guide V5.0\n"
-"POT-Creation-Date: 2011-06-01 18:50+0100\n"
-"PO-Revision-Date: 2011-09-12 23:44+0100\n"
+"Project-Id-Version: Cool TV Guide V5.1\n"
+"POT-Creation-Date: 2012-01-01 18:50+0100\n"
+"PO-Revision-Date: 2011-12-23 20:53+0100\n"
 "Last-Translator: Coolman <Coolman@uni.de>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -146,6 +146,9 @@ msgstr "wurde verschoben"
 msgid "is disabled"
 msgstr "ist deaktiviert"
 
+msgid "configuration of all Guides for your special wishes"
+msgstr "Anpassung aller Guides an Deine speziellen Wünsche"
+
 msgid "Cool Easy Guide use Yellow/Blue for Time -/+"
 msgstr "Cool Easy Guide benutze Gelb/Blau für Zeit -/+"
 
@@ -157,6 +160,18 @@ msgstr "Cool TimerAlarm prüfe auf Änderungen aller Timer"
 
 msgid "Cool TimerAlarm check if Timer is deaktivated"
 msgstr "Cool TimerAlarm prüfe ob Timer deaktiviert sind"
+
+msgid "Start Cool TV Guide with Red Button"
+msgstr "Starte Cool TV Guide mit roter Taste"
+
+msgid "Start Cool Single Guide with Green Button"
+msgstr "Starte Cool Single Guide mit grüner Taste"
+
+msgid "Start Cool Easy Guide with Yellow Button"
+msgstr "Starte Cool Easy Guide mit gelber Taste"
+
+msgid "Start Cool Info Guide with Info/EPG Button"
+msgstr "Starte Cool Info Guide mit Info/EPG Taste"
 
 msgid "Cancel"
 msgstr "Abbruch"
