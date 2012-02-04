@@ -8,8 +8,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Cool TV Guide V5.1\n"
-"POT-Creation-Date: 2012-01-01 18:50+0100\n"
-"PO-Revision-Date: 2011-12-23 20:53+0100\n"
+"POT-Creation-Date: 2012-02-02 20:50+0100\n"
+"PO-Revision-Date: 2012-02-03 00:26+0100\n"
 "Last-Translator: Coolman <Coolman@uni.de>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -23,14 +23,11 @@ msgstr ""
 msgid "Cool 3D"
 msgstr "Cool 3D"
 
-msgid "Load Picon (Yes) (need restart)"
-msgstr "Lade Picon (Ja) (Neustart)"
+msgid "Show Picon (Yes) (need restart)"
+msgstr "Zeige Picon (Ja) (Neustart)"
 
-msgid "Load CoolPico (Yes) (need restart)"
-msgstr "Lade CoolPico (Ja) (Neustart)"
-
-msgid "Start with Standard Height 60 (Yes)"
-msgstr "Starte mit Standard Höhe 60 (Ja)"
+msgid "Show CoolPico (Yes) (need restart)"
+msgstr "Zeige CoolPico (Ja) (Neustart)"
 
 msgid "Picon Height (60), (54), (54)"
 msgstr "Picon Höhe (60), (54), (54)"
@@ -44,20 +41,14 @@ msgstr "CoolPico Höhe (30), (27), (27)"
 msgid "CoolPico Item Height (30), (27), (27)"
 msgstr "CoolPico Zeilenhöhe (30), (27), (27)"
 
-msgid "Left Width for 60 Height (110), (75), (75)"
-msgstr "Linke Breite für Höhe 60 (110), (75), (75)"
+msgid "Left Section Width (110), (75), (75)"
+msgstr "Linke Spaltenbreite (110), (75), (75)"
 
-msgid "Left Width for 30 Height (190), (110), (110)"
-msgstr "Linke Breite für Höhe 30 (190), (110), (110)"
+msgid "Left Section Width (190), (110), (110)"
+msgstr "Linke Spaltenbreite (190), (110), (110)"
 
 msgid "Channel 1 at Start (No)"
 msgstr "Starte auf Kanal 1 (Nein)"
-
-msgid "Picon Path (Press Menu)"
-msgstr "Picon Ordner (drücke Menu)"
-
-msgid "About (Press Menu)"
-msgstr "Über (drücke Menu)"
 
 msgid "Red Button (Zap)"
 msgstr "Rote Taste (Zap)"
@@ -94,12 +85,6 @@ msgstr "Info/EPG Taste (EPG Select)"
 
 msgid "LongInfo Button"
 msgstr "LangInfo/EPG Taste"
-
-msgid "Cool PrimeTime (20) hour"
-msgstr "Cool Abendprogramm (20) Stunde"
-
-msgid "Cool PrimeTime (00) minute"
-msgstr "Cool Abendprogramm (00) Minute"
 
 msgid "Event 60 Fontsize (18), (15), (15)"
 msgstr "Rechte 60 Schriftgröße (18), (15), (15)"
@@ -149,11 +134,11 @@ msgstr "ist deaktiviert"
 msgid "configuration of all Guides for your special wishes"
 msgstr "Anpassung aller Guides an Deine speziellen Wünsche"
 
-msgid "Cool Easy Guide use Yellow/Blue for Time -/+"
-msgstr "Cool Easy Guide benutze Gelb/Blau für Zeit -/+"
+msgid "Cool Easy-Uni Guide use Yellow/Blue for Time -/+"
+msgstr "Cool Easy-Uni Guide benutze Gelb/Blau für Zeit -/+"
 
-msgid "Cool Easy Guide show Channel Number"
-msgstr "Cool Easy Guide Sendernummer anzeigen"
+msgid "Cool Easy-Uni Guide show Channel Number"
+msgstr "Cool Easy-Uni Guide Sendernummer anzeigen"
 
 msgid "Cool TimerAlarm check if Timer has changed"
 msgstr "Cool TimerAlarm prüfe auf Änderungen aller Timer"
@@ -205,12 +190,6 @@ msgstr "Timer editieren ?"
 
 msgid "Bouquetlist"
 msgstr "Bouquetliste"
-
-msgid "Cool Picon Path"
-msgstr "Cool Picon Ordner"
-
-msgid "Your Picon Path:"
-msgstr "Dein Picon Ordner:"
 
 msgid "Sort A-Z"
 msgstr "Sortiere A-Z"

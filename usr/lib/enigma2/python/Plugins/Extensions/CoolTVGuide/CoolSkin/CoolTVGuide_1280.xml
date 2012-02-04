@@ -7,12 +7,8 @@
 		<convert type="ClockToText">WithSeconds</convert>
 	</widget>
 
-	<widget source="Service" render="CoolPico" position="490,20" zPosition="1" size="50,30" alphatest="on">
-		<convert type="CoolConverter">CoolEvent</convert>
-	</widget>
-	<widget source="Service" render="CoolPico" position="920,20" zPosition="1" size="50,30" alphatest="on">
-		<convert type="CoolConverter">CoolEvent</convert>
-	</widget>
+	<widget source="Service" render="CoolPico" position="490,20" zPosition="1" size="50,28" alphatest="on" transparent="1" />
+	<widget source="Service" render="CoolPico" position="920,20" zPosition="1" size="50,28" alphatest="on" transparent="1" />
 
 	<widget source="global.CurrentTime" render="Label" position="1070,20" size="160,30" font="Regular;26" foregroundColor="#FFFFFF" backgroundColor="#000000" shadowColor="#000000" halign="right" transparent="1">
 		<convert type="ClockToText">Format:%d.%m.%Y</convert>
@@ -34,7 +30,7 @@
 		<convert type="EventTime">EndTime</convert>
 		<convert type="ClockToText">Format:- %H:%M</convert>
 	</widget>
-	<widget source="Event" render="Label" position="230,575" size="600,30" font="Regular;26" foregroundColor="#00e5b243" backgroundColor="#000000" transparent="1" halign="left">
+	<widget source="Event" render="Label" position="230,575" size="850,30" font="Regular;26" foregroundColor="#00e5b243" backgroundColor="#000000" transparent="1" halign="left">
 		<convert type="EventName">Name</convert>
 	</widget>
 	<widget source="Title" render="Label" position="740,575" size="500,32" zPosition="3" font="Regular;20" foregroundColor="#00605f5e" backgroundColor="#000000" halign="right" transparent="1" />

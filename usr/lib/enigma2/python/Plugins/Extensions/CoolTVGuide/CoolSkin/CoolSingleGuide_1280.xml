@@ -7,12 +7,8 @@
 		<convert type="ClockToText">WithSeconds</convert>
 	</widget>
 
-	<widget source="Service" render="CoolPico" position="480,20" zPosition="1" size="50,30" alphatest="on">
-		<convert type="CoolConverter">CoolEvent</convert>
-	</widget>
-	<widget source="Service" render="CoolPico" position="990,20" zPosition="1" size="50,30" alphatest="on">
-		<convert type="CoolConverter">CoolEvent</convert>
-	</widget>
+	<widget source="Service" render="CoolPico" position="480,20" zPosition="1" size="50,28" alphatest="on" transparent="1" />
+	<widget source="Service" render="CoolPico" position="990,20" zPosition="1" size="50,28" alphatest="on" transparent="1" />
 
 	<widget source="global.CurrentTime" render="Label" position="1070,20" size="160,30" font="Regular;26" foregroundColor="#FFFFFF" backgroundColor="#000000" shadowColor="#000000" halign="right" transparent="1">
 		<convert type="ClockToText">Format:%d.%m.%Y</convert>
