@@ -50,6 +50,12 @@ msgstr "Linke Spaltenbreite (190), (110), (110)"
 msgid "Channel 1 at Start (No)"
 msgstr "Starte auf Kanal 1 (Nein)"
 
+msgid "Special Character (UTF-8) Fix (No)"
+msgstr "Umlaute (UTF-8) Fix (Nein)"
+
+msgid "Short Service Name (No)"
+msgstr "Kurzer Service Name (Nein)"
+
 msgid "Red Button (Zap)"
 msgstr "Rote Taste (Zap)"
 
