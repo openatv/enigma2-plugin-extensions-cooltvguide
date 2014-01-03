@@ -40,7 +40,7 @@
 
 	<widget name="CoolShort" position="450,135" size="435,150" font="Regular;22" foregroundColor="#00e5b243" backgroundColor="#000000" shadowColor="#00605f5e" transparent="1" />
 
-	<widget name="CoolEvent" position="50,310" size="1180,30" itemHeight="30" zPosition="5" CoolFont="Regular;26" CoolDayPos="0" CoolTimePos="60" CoolEventPos="250" CoolDurationPos="1060" CoolDaySize="60" CoolTimeSize="190" CoolDurationSize="120" CoolDayColor="#FF6600" CoolTimeColor="#3B98C9" CoolEventColor="#FF6600" CoolDurationColor="#3B98C9" CoolTunerCol="#606060" CoolRecPreColor="#B59E01" CoolRecColor="#9F1313" CoolBackColorSel="#000000" foregroundColor="#FFFFFF" backgroundColor="#000000" transparent="1" />
+	<widget name="CoolEvent" position="50,310" size="1180,30" itemHeight="30" zPosition="5" CoolFont="Regular;26" CoolDayPos="0" CoolTimePos="60" CoolEventPos="250" CoolDurationPos="1060" CoolDaySize="60" CoolTimeSize="190" CoolDurationSize="120" CoolDayColor="#FF6600" CoolTimeColor="#3B98C9" CoolEventColor="#FF6600" CoolDurationColor="#3B98C9" CoolTunerCol="#606060" CoolRecAlarmCol="#B59E01" CoolRecColor="#9F1313" CoolBackColorSel="#000000" foregroundColor="#FFFFFF" backgroundColor="#000000" transparent="1" />
 
 	<widget name="CoolDescription" position="50,350" size="1190,325" font="Regular;22" foregroundColor="#00dddddd" backgroundColor="#000000" shadowColor="#000000" transparent="1" />
 

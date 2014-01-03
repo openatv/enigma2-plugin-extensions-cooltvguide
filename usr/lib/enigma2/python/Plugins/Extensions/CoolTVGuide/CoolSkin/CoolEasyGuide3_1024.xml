@@ -13,7 +13,7 @@
 		<convert type="ClockToText">Format:%d.%m.%Y</convert>
 	</widget>
 
-	<widget name="list" position="36,50" size="950,392" itemHeight="28" zPosition="25" CoolFont="Regular;20" CoolServiceFont="Regular;20" CoolEventFont="Regular;20" CoolServicePos="5" CoolServiceHPos="1" CoolBarPos="255" CoolBarSize="120" CoolBarHigh="14" CoolBarHPos="7" CoolTimePos="255" CoolTimeSize="120" CoolTimeHPos="1" CoolEventPos="390" CoolEventHPos="1" CoolServiceColor="#FF6600" CoolBarColor="#3B98C9" CoolEventColor="#FFFFFF" CoolBackColorSel="#000000" CoolRecPreColor="#B59E01" CoolRecColor="#9F1313" CoolTunerCol="#606060" selectionPixmap="/usr/lib/enigma2/python/Plugins/Extensions/CoolTVGuide/Cool3D/CoolCursor.png" foregroundColor="#FFFFFF" backgroundColor="#000000" transparent="1" />
+	<widget name="list" position="36,50" size="950,392" itemHeight="28" zPosition="25" CoolFont="Regular;20" CoolServiceFont="Regular;20" CoolEventFont="Regular;20" CoolServicePos="5" CoolServiceHPos="1" CoolBarPos="255" CoolBarSize="120" CoolBarHigh="14" CoolBarHPos="7" CoolTimePos="255" CoolTimeSize="120" CoolTimeHPos="1" CoolEventPos="390" CoolEventHPos="1" CoolServiceColor="#FF6600" CoolBarColor="#3B98C9" CoolEventColor="#FFFFFF" CoolBackColorSel="#000000" CoolRecAlarmCol="#B59E01" CoolRecColor="#9F1313" CoolTunerCol="#606060" selectionPixmap="/usr/lib/enigma2/python/Plugins/Extensions/CoolTVGuide/Cool3D/CoolCursor.png" foregroundColor="#FFFFFF" backgroundColor="#000000" transparent="1" />
 
 	<widget source="Event" render="Label" position="0,450" size="90,30" font="Regular;20" foregroundColor="#00e5b243" backgroundColor="#000000" shadowColor="#000000" halign="right" transparent="1">
 		<convert type="EventTime">StartTime</convert>

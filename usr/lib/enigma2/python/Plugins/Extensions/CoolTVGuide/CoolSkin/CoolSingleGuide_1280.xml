@@ -41,7 +41,7 @@
 	<widget source="Event" render="Label" position="50,480" zPosition="1" size="1190,185" font="Regular;20" foregroundColor="#00dddddd" backgroundColor="#00605f5e" shadowColor="#00605f5e" transparent="1" valign="top">
 		<convert type="EventName">ExtendedDescription</convert>
 	</widget>
-	<widget name="list" position="440,60" size="800,365" itemHeight="28" zPosition="25" CoolFont="Regular;22" CoolEventFont="Regular;22" CoolDayPos="0" CoolDaySize="50" CoolTimePos="70" CoolTimeSize="70" CoolEventPos="150" selectionPixmap="/usr/lib/enigma2/python/Plugins/Extensions/CoolTVGuide/Cool3D/CoolCursor.png" CoolDayColor="#FF6600" CoolTimeColor="#3B98C9" CoolEventColor="#FFFFFF" CoolRecPreColor="#B59E01" CoolRecColor="#9F1313" CoolBackColor="#000000" CoolBackColorSel="#000000" foregroundColor="#FFFFFF" backgroundColor="#000000" transparent="1" />
+	<widget name="list" position="440,60" size="800,365" itemHeight="28" zPosition="25" CoolFont="Regular;22" CoolEventFont="Regular;22" CoolDayPos="0" CoolDaySize="50" CoolTimePos="70" CoolTimeSize="70" CoolEventPos="150" selectionPixmap="/usr/lib/enigma2/python/Plugins/Extensions/CoolTVGuide/Cool3D/CoolCursor.png" CoolDayColor="#FF6600" CoolTimeColor="#3B98C9" CoolEventColor="#FFFFFF" CoolRecAlarmCol="#B59E01" CoolRecColor="#9F1313" CoolBackColor="#000000" CoolBackColorSel="#000000" foregroundColor="#FFFFFF" backgroundColor="#000000" transparent="1" />
 
 	<ePixmap pixmap="skin_default/buttons/red.png" position="270,675" size="25,25" alphatest="blend" />
 	<ePixmap pixmap="skin_default/buttons/green.png" position="460,675" size="25,25" alphatest="blend" />

@@ -37,7 +37,7 @@
 
 	<widget name="CoolShort" position="360,110" size="450,135" font="Regular;18" foregroundColor="#00e5b243" backgroundColor="#000000" shadowColor="#000000" transparent="1" />
 
-	<widget name="CoolEvent" position="40,240" size="950,30" itemHeight="30" zPosition="5" CoolFont="Regular;22" CoolTimePos="0" CoolTimeSize="80" CoolEventPos="80" CoolTimeColor="#3B98C9" CoolEventColor="#FF6600" CoolRecPreColor="#B59E01" CoolRecColor="#9F1313" CoolBackColorSel="#000000" foregroundColor="#FFFFFF" backgroundColor="#000000" transparent="1" />
+	<widget name="CoolEvent" position="40,240" size="950,30" itemHeight="30" zPosition="5" CoolFont="Regular;22" CoolTimePos="0" CoolTimeSize="80" CoolEventPos="80" CoolTimeColor="#3B98C9" CoolEventColor="#FF6600" CoolRecAlarmCol="#B59E01" CoolRecColor="#9F1313" CoolBackColorSel="#000000" foregroundColor="#FFFFFF" backgroundColor="#000000" transparent="1" />
 
 	<widget name="CoolDescription" position="40,275" size="950,265" font="Regular;20" foregroundColor="#00dddddd" backgroundColor="#000000" shadowColor="#000000" transparent="1" />
 

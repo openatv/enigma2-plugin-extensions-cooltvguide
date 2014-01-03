@@ -15,7 +15,7 @@
 	</widget>
 
 
-	<widget name="list" position="40,60" size="1200,480" itemHeight="28" zPosition="25" CoolFont="Regular;22" CoolEventFont="Regular;22" CoolDayPos="0" CoolDaySize="50" CoolTimePos="70" CoolTimeSize="70" CoolEventPos="150" CoolEventSize="1040" selectionPixmap="/usr/lib/enigma2/python/Plugins/Extensions/CoolTVGuide/Cool3D/CoolCursor.png" CoolDayColor="#FF6600" CoolTimeColor="#3B98C9" CoolEventColor="#FFFFFF" CoolRecPreColor="#B59E01" CoolRecColor="#9F1313" CoolBackColor="#000000" CoolBackColorSel="#000000" foregroundColor="#FFFFFF" backgroundColor="#000000" transparent="1" />
+	<widget name="list" position="40,60" size="1200,480" itemHeight="28" zPosition="25" CoolFont="Regular;22" CoolEventFont="Regular;22" CoolDayPos="0" CoolDaySize="50" CoolTimePos="70" CoolTimeSize="70" CoolEventPos="150" CoolEventSize="1040" selectionPixmap="/usr/lib/enigma2/python/Plugins/Extensions/CoolTVGuide/Cool3D/CoolCursor.png" CoolDayColor="#FF6600" CoolTimeColor="#3B98C9" CoolEventColor="#FFFFFF" CoolRecAlarmCol="#B59E01" CoolRecColor="#9F1313" CoolBackColor="#000000" CoolBackColorSel="#000000" foregroundColor="#FFFFFF" backgroundColor="#000000" transparent="1" />
 
 	<widget source="Event" render="Label" position="5,540" size="100,30" font="Regular;24" foregroundColor="#FFFFFF" backgroundColor="#000000" halign="right" transparent="1">
 		<convert type="EventTime">StartTime</convert>

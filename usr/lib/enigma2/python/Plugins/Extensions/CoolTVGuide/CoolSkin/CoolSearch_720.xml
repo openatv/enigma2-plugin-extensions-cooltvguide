@@ -35,7 +35,7 @@
 	<widget source="Service" render="Label" position="0,248" size="720,30" zPosition="3" font="Regular;22" halign="center" valign="center" foregroundColor="#00e5b243" backgroundColor="#000000" transparent="1">
 		<convert type="ServiceName">Name</convert>
 	</widget>
-	<widget name="list" position="20,285" size="695,250" itemHeight="28" zPosition="3" CoolFont="Regular;22" CoolServicePos="185" CoolEventPos="380" CoolDatePos="60" CoolTimePos="120" CoolServiceSize="190" CoolEventSize="650" CoolDateSize="60" CoolTimeSize="60" selectionPixmap="/usr/lib/enigma2/python/Plugins/Extensions/CoolTVGuide/Cool3D/CoolCursor.png" CoolServiceColor="#FF6600" CoolEventColor="#FFFFFF" CoolDateColor="#FFFFFF" CoolTimeColor="#3B98C9" CoolDayColor="#FF6600" CoolBackColor="#000000" CoolBackColorSel="#000000" CoolRecPreColor="#B59E01" CoolRecColor="#9F1313" backgroundColor="#00605f5e" transparent="1" />
+	<widget name="list" position="20,285" size="695,250" itemHeight="28" zPosition="3" CoolFont="Regular;22" CoolServicePos="185" CoolEventPos="380" CoolDatePos="60" CoolTimePos="120" CoolServiceSize="190" CoolEventSize="650" CoolDateSize="60" CoolTimeSize="60" selectionPixmap="/usr/lib/enigma2/python/Plugins/Extensions/CoolTVGuide/Cool3D/CoolCursor.png" CoolServiceColor="#FF6600" CoolEventColor="#FFFFFF" CoolDateColor="#FFFFFF" CoolTimeColor="#3B98C9" CoolDayColor="#FF6600" CoolBackColor="#000000" CoolBackColorSel="#000000" CoolRecAlarmCol="#B59E01" CoolRecColor="#9F1313" backgroundColor="#00605f5e" transparent="1" />
 
 	<ePixmap pixmap="skin_default/buttons/red.png" position="70,537" size="18,18" alphatest="blend" />
 	<ePixmap pixmap="skin_default/buttons/green.png" position="220,537" size="18,18" alphatest="blend" />

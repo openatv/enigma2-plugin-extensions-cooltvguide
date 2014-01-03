@@ -36,7 +36,7 @@
 
 	<widget name="CoolShort" position="270,110" size="220,130" font="Regular;16" foregroundColor="#00e5b243" backgroundColor="#000000" shadowColor="#000000" transparent="1" />
 
-	<widget name="CoolEvent" position="30,245" size="660,30" itemHeight="30" zPosition="5" CoolFont="Regular;22" CoolTimePos="0" CoolTimeSize="150" CoolEventPos="150" CoolTimeColor="#3B98C9" CoolEventColor="#FF6600" CoolRecPreColor="#B59E01" CoolRecColor="#9F1313" CoolBackColorSel="#000000" foregroundColor="#FFFFFF" backgroundColor="#000000" transparent="1" />
+	<widget name="CoolEvent" position="30,245" size="660,30" itemHeight="30" zPosition="5" CoolFont="Regular;22" CoolTimePos="0" CoolTimeSize="150" CoolEventPos="150" CoolTimeColor="#3B98C9" CoolEventColor="#FF6600" CoolRecAlarmCol="#B59E01" CoolRecColor="#9F1313" CoolBackColorSel="#000000" foregroundColor="#FFFFFF" backgroundColor="#000000" transparent="1" />
 	<widget name="CoolDescription" position="30,275" size="660,263" font="Regular;20" foregroundColor="#00dddddd" backgroundColor="#000000" shadowColor="#000000" transparent="1" />
 
 	<ePixmap pixmap="skin_default/buttons/red.png" position="70,537" size="18,18" alphatest="blend" />

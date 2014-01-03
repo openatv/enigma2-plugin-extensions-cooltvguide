@@ -16,7 +16,7 @@
 
 	<widget source="session.VideoPicture" render="Pig" position="35,49" size="305,174" zPosition="3" backgroundColor="#ff000000" />
 
-	<widget name="list" position="360,45" size="620,310" itemHeight="28" zPosition="25" CoolFont="Regular;20" CoolEventFont="Regular;20" CoolDayHPos="1" CoolTimePos="65" CoolTimeHPos="1" CoolEventPos="130" CoolEventHPos="1" selectionPixmap="/usr/lib/enigma2/python/Plugins/Extensions/CoolTVGuide/Cool3D/CoolCursor.png" CoolDayColor="#FF6600" CoolTimeColor="#3B98C9" CoolEventColor="#FFFFFF" CoolBackColor="#000000" CoolRecPreColor="#B59E01" CoolRecColor="#9F1313" foregroundColor="#FFFFFF" backgroundColor="#00605f5e" transparent="1" />
+	<widget name="list" position="360,45" size="620,310" itemHeight="28" zPosition="25" CoolFont="Regular;20" CoolEventFont="Regular;20" CoolDayHPos="1" CoolTimePos="65" CoolTimeHPos="1" CoolEventPos="130" CoolEventHPos="1" selectionPixmap="/usr/lib/enigma2/python/Plugins/Extensions/CoolTVGuide/Cool3D/CoolCursor.png" CoolDayColor="#FF6600" CoolTimeColor="#3B98C9" CoolEventColor="#FFFFFF" CoolBackColor="#000000" CoolRecAlarmCol="#B59E01" CoolRecColor="#9F1313" foregroundColor="#FFFFFF" backgroundColor="#00605f5e" transparent="1" />
 
 	<widget source="Service" render="Label" position="32,240" size="300,30" zPosition="3" font="Regular;26" halign="center" foregroundColor="#00e5b243" backgroundColor="#000000" transparent="1">
 		<convert type="ServiceName">Name</convert>
