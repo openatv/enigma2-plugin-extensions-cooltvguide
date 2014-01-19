@@ -27,10 +27,10 @@
 		<key id="KEY_OK" mapto="CoolOKLong" flags="l" />
 		<key id="KEY_INFO" mapto="CoolInfo" flags="b" />
 		<key id="KEY_INFO" mapto="CoolInfoLong" flags="l" />
-		<key id="KEY_UP" mapto="CoolUP" flags="m" />
-		<key id="KEY_DOWN" mapto="CoolDown" flags="m" />
-		<key id="KEY_LEFT" mapto="CoolLEFT" flags="m" />
-		<key id="KEY_RIGHT" mapto="CoolRIGHT" flags="m" />
+		<key id="KEY_UP" mapto="CoolUP" flags="mr" />
+		<key id="KEY_DOWN" mapto="CoolDown" flags="mr" />
+		<key id="KEY_LEFT" mapto="CoolLEFT" flags="mr" />
+		<key id="KEY_RIGHT" mapto="CoolRIGHT" flags="mr" />
 		<key id="KEY_HELP" mapto="CoolHelp" flags="m" />
 		<key id="KEY_NEXT" mapto="CoolNEXT" flags="m" />
 		<key id="KEY_PREVIOUS" mapto="CoolPREVIOUS" flags="m" />
