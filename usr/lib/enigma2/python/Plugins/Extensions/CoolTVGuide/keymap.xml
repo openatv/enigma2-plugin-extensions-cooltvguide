@@ -62,4 +62,48 @@
 
 	</map>
 
+	<map context="CoolTVGuide">
+
+		<key id="KEY_POWER" mapto="CoolPower" flags="m" />
+		<key id="KEY_MENU" mapto="CoolMenu" flags="m" />
+		<key id="KEY_TEXT" mapto="CoolTime" flags="m" />
+		<key id="KEY_RED" mapto="CoolRed" flags="b" />
+		<key id="KEY_GREEN" mapto="CoolGreen" flags="b" />
+		<key id="KEY_YELLOW" mapto="CoolYellow" flags="m" />
+		<key id="KEY_BLUE" mapto="CoolBlue" flags="m" />
+		<key id="KEY_OK" mapto="CoolOK" flags="m" />
+		<key id="KEY_INFO" mapto="CoolInfo" flags="b" />
+		<key id="KEY_UP" mapto="CoolUP" flags="m" />
+		<key id="KEY_DOWN" mapto="CoolDown" flags="m" />
+		<key id="KEY_LEFT" mapto="CoolLEFT" flags="m" />
+		<key id="KEY_RIGHT" mapto="CoolRIGHT" flags="m" />
+		<key id="KEY_HELP" mapto="CoolHelp" flags="m" />
+		<key id="KEY_NEXT" mapto="CoolNEXT" flags="m" />
+		<key id="KEY_PREVIOUS" mapto="CoolPREVIOUS" flags="m" />
+		<key id="KEY_CHANNELUP" mapto="CoolChannelUP" flags="m" />
+		<key id="KEY_CHANNELDOWN" mapto="CoolChannelDown" flags="m" />
+		<key id="KEY_RECORD" mapto="CoolRecord" flags="m" />
+		<key id="KEY_RADIO" mapto="CoolRecord" flags="m" />
+		<key id="KEY_EXIT" mapto="CoolCancel" flags="m" />
+		<key id="KEY_ESC" mapto="CoolCancel" flags="m" />
+		<key id="KEY_VIDEO"	mapto="CoolVIDEO" flags="m" />
+		<key id="KEY_AUDIO"	mapto="CoolAUDIO" flags="m" />
+		<key id="KEY_PLAY" mapto="CoolPlay" flags="m" />
+		<key id="KEY_REWIND" mapto="CoolRewind" flags="m" />
+		<key id="KEY_FASTFORWARD" mapto="CoolFastForward" flags="m" />
+		<key id="KEY_TV" mapto="CoolKeyTV" flags="m" />
+
+		<key id="KEY_1" mapto="1" flags="m" />
+		<key id="KEY_2" mapto="2" flags="m" />
+		<key id="KEY_3" mapto="3" flags="m" />
+		<key id="KEY_4" mapto="4" flags="m" />
+		<key id="KEY_5" mapto="5" flags="m" />
+		<key id="KEY_6" mapto="6" flags="m" />
+		<key id="KEY_7" mapto="7" flags="m" />
+		<key id="KEY_8" mapto="8" flags="m" />
+		<key id="KEY_9" mapto="9" flags="m" />
+		<key id="KEY_0" mapto="0" flags="m" />
+
+	</map>
+
 </keymap>

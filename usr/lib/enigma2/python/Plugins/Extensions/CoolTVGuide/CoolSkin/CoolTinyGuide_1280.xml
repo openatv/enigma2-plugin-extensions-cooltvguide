@@ -15,12 +15,12 @@
 	</widget>
 	<widget name="timeline_text" position="9,60" size="1230,30" foregroundColor="#00e5b243" backgroundColor="#000000" transparent="1"/>
 	<widget name="list" position="40,90" size="1200,480" scrollbarMode="showNever" transparent="1" />
-	<widget name="timeline0" position="0,140" zPosition="1" size="0,0" pixmap="skin_default/timeline.png" />
-	<widget name="timeline1" position="0,140" zPosition="1" size="0,0" pixmap="skin_default/timeline.png" />
-	<widget name="timeline2" position="0,140" zPosition="1" size="0,0" pixmap="skin_default/timeline.png" />
-	<widget name="timeline3" position="0,140" zPosition="1" size="0,0" pixmap="skin_default/timeline.png" />
-	<widget name="timeline4" position="0,140" zPosition="1" size="0,0" pixmap="skin_default/timeline.png" />
-	<widget name="timeline5" position="0,140" zPosition="1" size="0,0" pixmap="skin_default/timeline.png" />
+	<widget name="timeline0" position="0,140" zPosition="1" size="0,0" pixmap="/usr/lib/enigma2/python/Plugins/Extensions/CoolTVGuide/Cool3D/timeline-now.png" />
+	<widget name="timeline1" position="0,140" zPosition="1" size="0,0" pixmap="/usr/lib/enigma2/python/Plugins/Extensions/CoolTVGuide/Cool3D/timeline-now.png" />
+	<widget name="timeline2" position="0,140" zPosition="1" size="0,0" pixmap="/usr/lib/enigma2/python/Plugins/Extensions/CoolTVGuide/Cool3D/timeline-now.png" />
+	<widget name="timeline3" position="0,140" zPosition="1" size="0,0" pixmap="/usr/lib/enigma2/python/Plugins/Extensions/CoolTVGuide/Cool3D/timeline-now.png" />
+	<widget name="timeline4" position="0,140" zPosition="1" size="0,0" pixmap="/usr/lib/enigma2/python/Plugins/Extensions/CoolTVGuide/Cool3D/timeline-now.png" />
+	<widget name="timeline5" position="0,140" zPosition="1" size="0,0" pixmap="/usr/lib/enigma2/python/Plugins/Extensions/CoolTVGuide/Cool3D/timeline-now.png" />
 	<widget name="timeline_now" position="0,90" zPosition="2" size="19,480" pixmap="/usr/lib/enigma2/python/Plugins/Extensions/CoolTVGuide/Cool3D/timeline-now.png" alphatest="on" />
 	<widget source="Event" render="Label" position="5,575" size="100,30" font="Regular;26" foregroundColor="#00e5b243" backgroundColor="#000000" shadowColor="#000000" halign="right" transparent="1">
 		<convert type="EventTime">StartTime</convert>
