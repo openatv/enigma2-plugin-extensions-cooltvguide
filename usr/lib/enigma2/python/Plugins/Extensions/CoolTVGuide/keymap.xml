@@ -2,7 +2,7 @@
 <!--###################################
  #	   Cool TV Guide by Coolman		 #
   #		EPG-Plugin for Enigma2	    #
-   #     by Coolman (c) 2014       #
+   #     by Coolman (c) 2017       #
   #									#
  #		    Version: V7 			 #
 ####################################-->
@@ -25,7 +25,7 @@
 		<key id="KEY_BLUE" mapto="CoolBlueLong" flags="l" />
 		<key id="KEY_OK" mapto="CoolOK" flags="b" />
 		<key id="KEY_OK" mapto="CoolOKLong" flags="l" />
-		<key id="KEY_INFO" mapto="CoolInfo" flags="m" />
+		<key id="KEY_INFO" mapto="CoolInfo" flags="b" />
 		<key id="KEY_INFO" mapto="CoolInfoLong" flags="l" />
 		<key id="KEY_UP" mapto="CoolUP" flags="mr" />
 		<key id="KEY_DOWN" mapto="CoolDown" flags="mr" />
